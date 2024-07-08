@@ -1,8 +1,7 @@
 package animals;
-
-import Olympics.Medal;
 import mobility.Mobile;
 import mobility.Point;
+import Olympics.Medal;
 
 import java.util.Arrays;
 

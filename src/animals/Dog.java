@@ -1,5 +1,6 @@
 package animals;
-
+import mobility.Point;
+import Olympics.Medal;
 public class Dog extends TerrestrialAnimals {
     private String breed;
     public Dog(Point location,String name, Gender gender, double weight, double speed, Medal[] medals, Point position, int noLegs, String breed){

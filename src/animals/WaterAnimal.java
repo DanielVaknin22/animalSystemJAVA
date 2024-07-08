@@ -1,5 +1,6 @@
 package animals;
-
+import mobility.Point;
+import Olympics.Medal;
 public abstract class WaterAnimal extends Animal {
     public static final int MAX_DIVE = -800;
     private double diveDept;
